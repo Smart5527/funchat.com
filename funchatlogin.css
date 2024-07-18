@@ -1,0 +1,71 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background-color: rgb(165, 40, 40);
+}
+form{
+  width: 400px;
+  height: 500px;
+  background-color: rgb(133, 18, 18);
+  margin-left: 35%;
+  margin-top: 2%;
+  border-radius: 20px;
+
+}
+.funchatheading{
+  color: rgb(255, 238, 0);
+  width: 200px;
+  height: 30px; 
+  font-size: 50px;
+  margin-left: 25%;
+  margin-bottom: 20%;
+  font-family: sans-serif;
+  font-weight: bold;
+  padding-top: 20px;
+  
+}
+.inputbox{
+  width: 350px;
+  height: 40px;
+  margin-left: 5%;
+  margin-bottom: 10%;
+  border-radius: 20px;
+  border: none;
+  outline: none;
+}
+.inputbox::placeholder{
+  font-size: 15px;
+}
+
+input{
+  font-family: Arial;
+  padding-left: 5px;
+  font-size: 18px;
+}
+
+.login{
+font-size: 16px;
+font-family: Arial;
+margin-left: 40%;
+
+}
+.lg{
+  color: rgb(255, 225, 54);
+}
+.b{
+width: 200px;
+height: 70px;
+margin-left: 25%;
+border-radius: 10px;
+outline: none;
+border: none;
+color: rgb(255, 255, 255);
+background-color: rgb(0, 163, 0);
+font-weight: bold;
+font-family: Arial;
+border: 1px solid rgb(0, 255, 0);
+margin-top: 10%;
+
+}
